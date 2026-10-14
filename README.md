@@ -28,6 +28,31 @@ Je kan ook één agent rechtstreeks aanspreken:
 Laat de copywriter een landingspagina schrijven voor mijn AI-audit.
 ```
 
+## Wat je krijgt: een voorbeeldrun
+
+In `voorbeelden/asklien/` staat een volledige run met AskLien.ai als case: ingevulde merkbasis, het plan van de Strateeg en drie echte outputs.
+
+| Bestand | Van agent | Wat het is |
+|---|---|---|
+| [plan.md](voorbeelden/asklien/plan.md) | strateeg | Plan met 6 stappen voor 20 audit-aanvragen in Q4 |
+| [landingspagina-ai-audit.md](voorbeelden/asklien/content/landingspagina-ai-audit.md) | copywriter | Volledige landingspagina, met gekozen kop en motivatie |
+| [reel-ai-speeltje.md](voorbeelden/asklien/social/reel-ai-speeltje.md) | content-creator | Reel-script in twee kolommen: gesproken en in beeld |
+| [welkomstflow.md](voorbeelden/asklien/email/welkomstflow.md) | email-copywriter | 5 mails over 7 dagen, met onderwerpregels en timing |
+
+Zo zie je vóór je iets invult wat het team oplevert.
+
+## Vijf agents gaan diep
+
+De 40 agents hebben allemaal een duidelijke rol, werkwijze en output. Vijf agents hebben daarbovenop een uitgewerkte methode met frameworks, checklists en voorbeelden, omdat ze het verschil maken in het dagelijks werk:
+
+- `strateeg`: zeven draaiboeken voor de meest voorkomende doelen, plus een vast planformaat.
+- `copywriter`: tone-of-voice-regels, landingspaginastructuur in negen secties, drie koptypes, verboden woorden.
+- `content-creator`: tien hooktypes, formats voor reels, carrousels en LinkedIn, checklist.
+- `email-copywriter`: onderwerpregelregels, mailopbouw, welkomst-, verkoop- en reactivatieflow.
+- `concurrentie-analist`: vaste vergelijkingstabel en een methode om de open positie te vinden.
+
+Elke andere agent weet wat hij niet doet en verwijst door naar de juiste collega.
+
 ## Het team
 
 ### 👑 CEO
@@ -150,6 +175,7 @@ Laat de email-strateeg en de email-copywriter samen een welkomstflow van 5 mails
 .claude/
   agents/        41 agents
   commands/      /marketing
+voorbeelden/asklien/  volledige voorbeeldrun
 marketing/
   merk.md        jouw merkbasis
   doelgroep.md   jouw doelgroep
