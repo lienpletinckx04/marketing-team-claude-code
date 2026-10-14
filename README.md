@@ -2,8 +2,6 @@
 
 **8 afdelingen. 40 gespecialiseerde agents. Eén CEO.** Een compleet marketingteam dat je in Claude Code aanstuurt.
 
-![Ons marketingteam in Claude Code](assets/marketing-team.webp)
-
 Elke agent is een Claude Code-subagent met een eigen rol, werkwijze en output. De Strateeg (CEO) maakt het plan, de specialisten voeren het uit.
 
 ## Wat je nodig hebt
